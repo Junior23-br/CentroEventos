@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane fx:id="archonCerrar" prefHeight="556.0" prefWidth="628.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="co.edu.uniquindio.edu.co.centroeventosuq.controller.VentanEspera">
+   <children>
+      <Text layoutX="270.0" layoutY="251.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Personas en cola" />
+      <Text fx:id="txtPersonaEnCola" layoutX="303.0" layoutY="283.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" />
+   </children>
+</AnchorPane>
